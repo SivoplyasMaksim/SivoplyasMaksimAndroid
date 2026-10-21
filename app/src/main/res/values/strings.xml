@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HW_2</string>
+
+    <string name="title_authorization">Авторизация</string>
+    <string name="button_login">Войти</string>
+    <string name="button_back">Вернуться на первый экран</string>
+    <string name="button_copy_password">Скопировать пароль</string>
+    <string name="toast_password_copied">Пароль скопирован</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Пароль</string>
+    <string name="label_generated_password">Сгенерированный пароль</string>
+    <string name="error_email_empty">Email не может быть пустым</string>
+    <string name="error_email_invalid">Неверный формат email</string>
+    <string name="error_password_empty">Пароль не может быть пустым</string>
+    <string name="error_password_invalid">Пароль должен содержать минимум 8 символов (латиница и цифры)</string>
+    <string name="content_desc_success">Успех</string>
+    <string name="content_desc_error">Ошибка</string>
+</resources>
