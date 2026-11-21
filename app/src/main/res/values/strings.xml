@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Notifications Lab</string>
+
+
+    <string name="permission_warning">Для работы приложения нужно разрешение на показ уведомлений</string>
+    <string name="open_settings">Открыть настройки приложения</string>
+    <string name="label_title">Заголовок уведомления</string>
+    <string name="hint_title">Например: Заголовок</string>
+    <string name="label_text">Текст уведомления</string>
+    <string name="hint_text">Введите текст. Длинный текст можно будет раскрыть в шторке</string>
+    <string name="checkbox_non_cancellable">Non-cancellable (нельзя смахнуть)</string>
+    <string name="label_importance">Importance уведомления</string>
+    <string name="btn_send">Отправить уведомление</string>
+    <string name="label_manage">Активные уведомления</string>
+    <string name="hint_id">id активного уведомления</string>
+    <string name="btn_edit">Редактировать</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_delete_all">Удалить все</string>
+    <string name="btn_second_screen">Второй экран (координаты)</string>
+
+    <string-array name="importance_entries">
+        <item>MIN</item>
+        <item>DEFAULT</item>
+        <item>HIGH</item>
+    </string-array>
+
+
+    <string name="location_screen_title">Определение координат</string>
+    <string name="location_hint">Для определения координат нажмите на кнопку</string>
+    <string name="btn_get_location">Определить координаты</string>
+    <string name="location_permission_denied">Для определения координат необходимо разрешение на доступ к местоположению. Предоставьте его и нажмите кнопку снова.</string>
+    <string name="location_need_precise">Разрешено только приблизительное местоположение. Включите «Точное местоположение» (Precise) в настройках приложения.</string>
+    <string name="location_searching">Определяем координаты…</string>
+    <string name="location_disabled">Геолокация выключена на устройстве. Включите её и попробуйте снова.</string>
+    <string name="location_unavailable">Координаты пока недоступны. Попробуйте ещё раз (на эмуляторе: Extended controls → Location → Send).</string>
+    <string name="location_format">Широта: %1$.6f\nДолгота: %2$.6f</string>
+</resources>
